@@ -8,13 +8,10 @@ Write a program to output the numbers 1.0, 1.1, 1.2, etc. from 1.0 up to 2.0.
 
 ## Exercise 2
 
-Ask the user to enter a sentence. Output the number of characters (excluding spaces) in the sentence.
+Ask the user to enter a sentence. Output the number of characters in the sentence.
 
     Input: Hello World!
-    Output: 11
-
-    Input: How many characters here?
-    Output: 22
+    Output: 12
 
 ## Exercise 3
 
@@ -38,6 +35,22 @@ Simulate rolling a 6-sided dice using RANDOM() and ROUND().
 ---
 
 ## Exercise 5
+
+Input a password.
+If it has 8 or more characters, output "Strong", otherwise "Weak".
+Convert the password to uppercase before output.
+
+    Input: password
+    Output: Strong password: PASSWORD
+
+    Input: pass
+    Output: Weak password: PASS
+
+    
+---
+
+
+## Exercise 6
 
 Create a simple lucky draw game:  
    -Generate a random number between 1 and 10.   
