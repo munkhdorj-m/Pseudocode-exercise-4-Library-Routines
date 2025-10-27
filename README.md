@@ -47,7 +47,7 @@ Create a simple lucky draw game:
     Input: 3
     Output: Wrong! Guess again
     Input: 4
-    Output Wrong! Guess again
+    Output: Wrong! Guess again
     Input: 6
     Output: You win!
     
